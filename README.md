@@ -150,24 +150,11 @@ Founder and head of the **Robotics and Artificial Intelligence Association** at 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryaempi&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaempi&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
-
 ## 📫 Contact
 
 📧 **Academic Email:** [a.masoudpay@gmail.com](mailto:a.masoudpay@gmail.com)
 
 💻 **GitHub:** [@aryaempi](https://github.com/aryaempi)
-
 
 ---
 
