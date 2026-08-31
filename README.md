@@ -164,9 +164,10 @@ Founder and head of the **Robotics and Artificial Intelligence Association** at 
 
 ## 📫 Contact
 
-📧 **Academic Email:** [arya.masoudpay@ut.ac.ir](mailto:arya.masoudpay@ut.ac.ir)
+📧 **Academic Email:** [a.masoudpay@gmail.com](mailto:a.masoudpay@gmail.com)
 
 💻 **GitHub:** [@aryaempi](https://github.com/aryaempi)
+
 
 ---
 
