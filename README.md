@@ -22,29 +22,39 @@ I have several years of hands-on experience in **robotics, embedded systems, PCB
 
 ## 🛠️ Technical Skills
 
-### Programming
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-1F1F1F?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1F1F1F?style=flat-square)
 
-### Embedded & Electronics
+### Embedded Systems & Electronics
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-1B1B1B?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square\&logo=stmicroelectronics\&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-Microcontroller-000000?style=flat-square)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-Engineering-1B1B1B?style=flat-square)
 
-### Tools & Databases
+### Databases & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square\&logo=autodesk\&logoColor=white)
+
+### Other Tools
+
+* ModelSim
+* CodeVisionAVR
+* Autodesk Fusion 360
+* Adobe Photoshop
+* CorelDRAW
+* 3D Printing Software
 
 ---
 
@@ -165,3 +175,4 @@ Founder and head of the **Robotics and Artificial Intelligence Association** at 
 *Building intelligent systems, one project at a time.*
 
 </div>
+
