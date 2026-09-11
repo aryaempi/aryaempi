@@ -1,4 +1,4 @@
-# Hi, I'm Aria Masoudpay 👋
+# Hi, I'm Arya Masoudpay 👋
 
 ### Computer Engineering Student | Robotics & AI Enthusiast
 
